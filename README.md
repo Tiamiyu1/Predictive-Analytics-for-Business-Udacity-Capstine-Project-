@@ -1,7 +1,7 @@
 # Predictive-Analytics-for-Business-Udacity-Capstine-Project-
 This is my project folder for the Business Analytics Course
 
-Here is an overview the course modules 
+Here is an overview of the course modules 
 
 📊 Problem Solving with Analytics 
 
