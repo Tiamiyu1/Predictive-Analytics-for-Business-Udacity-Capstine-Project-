@@ -14,3 +14,5 @@ Here is an overview of the course modules
 📊 Time Serie Forecasting
 
 📊 Segmentation and Clustering 
+
+![Certificate](https://github.com/Tiamiyu1/Predictive-Analytics-for-Business-Udacity-Capstine-Project-/Certificate.png)
