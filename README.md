@@ -15,4 +15,4 @@ Here is an overview of the course modules
 
 📊 Segmentation and Clustering 
 
-![Certificate](https://github.com/Tiamiyu1/Predictive-Analytics-for-Business-Udacity-Capstine-Project-/Certificate.png)
+![Certificate](https://github.com/Tiamiyu1/Predictive-Analytics-for-Business-Udacity-Capstine-Project-/blob/main/Certificate.png)
