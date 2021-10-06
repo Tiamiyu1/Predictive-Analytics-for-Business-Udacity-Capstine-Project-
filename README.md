@@ -1,4 +1,8 @@
 # Predictive-Analytics-for-Business-Udacity-Capstine-Project-
+
+![Certificate](https://github.com/Tiamiyu1/Predictive-Analytics-for-Business-Udacity-Capstine-Project-/blob/main/Certificate.png)
+
+
 This is my project folder for the Business Analytics Course
 
 Here is an overview of the course modules 
@@ -15,4 +19,4 @@ Here is an overview of the course modules
 
 📊 Segmentation and Clustering 
 
-![Certificate](https://github.com/Tiamiyu1/Predictive-Analytics-for-Business-Udacity-Capstine-Project-/blob/main/Certificate.png)
+
